@@ -13,3 +13,6 @@ A customizable open-source macropad for makers, coders, designers, and electroni
 - RP2040 microcontroller
 - EC11 Rotary encoder
 - MX switches
+
+## Current Status
+Early design phase.
