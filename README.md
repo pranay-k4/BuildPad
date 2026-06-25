@@ -1,6 +1,9 @@
 # BuildPad
 A customizable open-source macropad for makers, coders, designers, and electronics builders.
 
+## Why I Built This
+Because building something yourself is way more fun than buying it.
+
 ## Features
 - 6 programmable mechanical keys
 - Rotary encoder
@@ -9,10 +12,15 @@ A customizable open-source macropad for makers, coders, designers, and electroni
 - Custom firmware
 - Open-source hardware
 
-## Planned Hardware
-- RP2040 microcontroller
-- EC11 Rotary encoder
-- MX switches
+## Hardware
+
+| Component | Part                |
+| --------- | ------------------- |
+| MCU       | Seeed XIAO RP2040   |
+| Display   | SSD1306 128x32 OLED |
+| RGB       | 8x SK6812 Mini-E    |
+| Switches  | MX Compatible       |
+| Firmware  | QMK                 |
 
 ## Current Status
-Early design phase.
+In design phase.
