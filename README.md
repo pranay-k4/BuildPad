@@ -2,7 +2,7 @@
 A customizable open-source macropad for makers, coders, designers, and electronics builders.
 
 ## Why I Built This
-Because building something yourself is way more fun than buying it.
+Because building something yourself is way more fun than buying it and I love hardware.
 
 ## Features
 - 6 programmable mechanical keys
