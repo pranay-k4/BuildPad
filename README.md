@@ -26,7 +26,14 @@ BuildPad is customizable open-source macropad for makers, coders, designers, and
 
 ## Images
 
+### CAD Render
+
 ![image](https://cdn.hackclub.com/019f04f6-ddee-7857-a1ab-f39f0f435403/Opera%20Snapshot_2026-06-26_224202_cad.onshape.com.png)
+
+### PCB
+
+![image](https://cdn.hackclub.com/019ef59a-6f5c-710c-83ca-89a48ec1d11d/image.png)
+![image](https://cdn.hackclub.com/019ef59a-bcc8-749e-8118-97423e1eb3ba/image.png)
 
 ## Current Status
 
