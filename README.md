@@ -26,8 +26,7 @@ BuildPad is customizable open-source macropad for makers, coders, designers, and
 
 ## Images
 
-<img width="634" height="428" alt="Opera Snapshot_2026-06-26_224139_cad onshape com" src="https://github.com/user-attachments/assets/0fd36439-d4a2-4aa1-a834-69f69fa2ffe9" />
-<img width="634" height="428" alt="Opera Snapshot_2026-06-26_224202_cad onshape com" src="https://github.com/user-attachments/assets/b12fac41-ed03-45fd-bc24-8c70e6dc4ee0" />
+![image](https://cdn.hackclub.com/019f04f6-ddee-7857-a1ab-f39f0f435403/Opera%20Snapshot_2026-06-26_224202_cad.onshape.com.png)
 
 ## Current Status
 
