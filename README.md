@@ -1,9 +1,9 @@
 # BuildPad
-A customizable macro pad with OLED display, layers, media controls and more.
+BuildPad is customizable macro pad with OLED display, layers, media controls and more.
 
 ## Why BuildPad? ( Why I built this )
-BuildPad is customizable open-source macropad for makers, coders, designers, and electronics builders.
-Because building something yourself is way more fun than buying it and I love hardware.
+BuildPad is customizable open-source macropad for makers, coders, designers, and electronics builders and why I made this because building something yourself is way more fun than buying it and I love hardware.
+
 
 ## Features
 - 6 programmable mechanical keys
@@ -31,7 +31,7 @@ Because building something yourself is way more fun than buying it and I love ha
 
 ## Current Status
 
-[x] PCB Designed
+- [x] PCB Designed
 - [x] CAD Designed
 - [x] QMK Firmware
 - [x] OLED Support
