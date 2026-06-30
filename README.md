@@ -12,6 +12,7 @@ Because building something yourself is way more fun than buying it and I love ha
 - RGB lighting
 - Custom firmware
 - Open-source hardware
+-  Bongo Cat animation
 
 ## Hardware
 
@@ -29,5 +30,12 @@ Because building something yourself is way more fun than buying it and I love ha
 <img width="634" height="428" alt="Opera Snapshot_2026-06-26_224202_cad onshape com" src="https://github.com/user-attachments/assets/b12fac41-ed03-45fd-bc24-8c70e6dc4ee0" />
 
 ## Current Status
-In design phase.
+
+- [x] PCB Designed
+- [x] CAD Designed
+- [x] QMK Firmware
+- [x] OLED Support
+- [x] RGB Support
+- [ ] Hardware Assembly
+- [ ] Final Testing
 
