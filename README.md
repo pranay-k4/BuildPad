@@ -31,7 +31,7 @@ Because building something yourself is way more fun than buying it and I love ha
 
 ## Current Status
 
-- [x] PCB Designed
+[x] PCB Designed
 - [x] CAD Designed
 - [x] QMK Firmware
 - [x] OLED Support
