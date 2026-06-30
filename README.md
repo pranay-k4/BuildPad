@@ -32,7 +32,7 @@ BuildPad is customizable open-source macropad for makers, coders, designers, and
 
 ### PCB
 
-![image](https://cdn.hackclub.com/019ef59a-6f5c-710c-83ca-89a48ec1d11d/image.pngwidth="20%")
+![image](https://cdn.hackclub.com/019ef59a-6f5c-710c-83ca-89a48ec1d11d/image.png)
 
 ![image](https://cdn.hackclub.com/019ef59a-bcc8-749e-8118-97423e1eb3ba/image.png)
 
