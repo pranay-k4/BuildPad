@@ -1,0 +1,63 @@
+{
+    "manufacturer": "Pranay",
+    "keyboard_name": "buildpad",
+    "maintainer": "pranay",
+    "bootloader": "rp2040",
+
+    "diode_direction": "COL2ROW",
+
+    "features": {
+        "bootmagic": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "encoder": true,
+        "oled": true,
+        "rgblight": true
+    },
+
+    
+    "matrix_pins": {
+        "cols": ["GP2", "GP3", "GP4"],
+        "rows": ["GP0", "GP1"]
+    },
+    
+    "encoder": {
+    "rotary": [
+        {
+            "pin_a": "GP5",
+            "pin_b": "GP6"
+        }
+    ]
+    },
+
+    "ws2812": {
+    "pin": "GP10",
+    "driver": "vendor"
+    },
+     
+    "rgblight": {
+    "led_count": 8
+    },
+
+
+    "processor": "RP2040",
+    "url": "https://github.com/pranay-k4/BuildPad",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_ortho_2x3": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [1, 0], "x": 0, "y": 1},
+                {"matrix": [1, 1], "x": 1, "y": 1},
+                {"matrix": [1, 2], "x": 2, "y": 1}
+            ]
+        }
+    }
+}
