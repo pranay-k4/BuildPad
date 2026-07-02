@@ -28,21 +28,13 @@ BuildPad is customizable open-source macropad for makers, coders, designers, and
 
 ### CAD Render
 
-![image](https://cdn.hackclub.com/019f04f6-ddee-7857-a1ab-f39f0f435403/Opera%20Snapshot_2026-06-26_224202_cad.onshape.com.png)
+<img width="722" height="508" alt="Opera Snapshot_2026-07-02_221631_cad onshape com" src="https://github.com/user-attachments/assets/1738ffb8-bb89-46ea-955f-cf1055aacfe7" />
+
+<img width="606" height="420" alt="Opera Snapshot_2026-07-02_222105_cad onshape com" src="https://github.com/user-attachments/assets/f5d77506-7f1f-44f0-8f96-652ffa5cb741" />
+
 
 ### PCB
 
 ![image](https://cdn.hackclub.com/019ef59a-6f5c-710c-83ca-89a48ec1d11d/image.png)
 
 ![image](https://cdn.hackclub.com/019ef59a-bcc8-749e-8118-97423e1eb3ba/image.png)
-
-## Current Status
-
-- [x] PCB Designed
-- [x] CAD Designed
-- [x] QMK Firmware
-- [x] OLED Support
-- [x] RGB Support
-- [ ] Hardware Assembly
-- [ ] Final Testing
-
