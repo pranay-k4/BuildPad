@@ -1,0 +1,13 @@
+Item,Quantity,Component,Specification,Price,Link
+1,1,Microcontroller,Seeed Studio XIAO RP2040,,
+2,1,OLED Display,0.91in SSD1306 I2C OLED (128x32),,
+3,1,Rotary Encoder,EC11 Encoder with Push Switch,,
+4,6,Mechanical Switches,Cherry MX Compatible Switches,,
+5,6,Keycaps,MX Compatible Keycaps,,
+6,8,RGB LEDs,SK6812MINI-E Reverse Mount RGB LEDs,,
+7,6,Diodes,1N4148W SOD-123,,
+8,1,PCB,BuildPad v1 PCB,,
+9,1,Case,BuildPad v1 3D Printed Case,,
+10,4,Heat Set Inserts,M2 Brass Heat Set Inserts,,
+11,4,Screws,M2 Machine Screws,,
+12,1,Encoder Knob,6mm Shaft Encoder Knob,,
