@@ -14,8 +14,9 @@ BuildPad is customizable open-source macropad for makers, coders, designers, and
 - Bongo Cat animation
 
 ## CAD Render
-<img width="722" height="508" alt="Opera Snapshot_2026-07-02_221631_cad onshape com" src="https://github.com/user-attachments/assets/1738ffb8-bb89-46ea-955f-cf1055aacfe7" />
-<img width="606" height="420" alt="Opera Snapshot_2026-07-02_222105_cad onshape com" src="https://github.com/user-attachments/assets/f5d77506-7f1f-44f0-8f96-652ffa5cb741" />
+<img width="807" height="414" alt="Opera Snapshot_2026-07-03_222907_cad onshape com" src="https://github.com/user-attachments/assets/362d20aa-5a3d-4742-9e9f-a83dae572393" />
+<img width="636" height="480" alt="Opera Snapshot_2026-07-03_222953_cad onshape com" src="https://github.com/user-attachments/assets/7bcae890-fcce-4e9d-a9f8-81b9c20f87a9" />
+
 
 ## PCB Screenshots
 ![image](https://cdn.hackclub.com/019ef59a-6f5c-710c-83ca-89a48ec1d11d/image.png)
