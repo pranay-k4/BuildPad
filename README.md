@@ -77,4 +77,5 @@ This project is licensed under the MIT License.
 
 ## Author
 Pranay Kamle
+
 BuildPad v1 • 2026
