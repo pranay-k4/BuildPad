@@ -9,6 +9,6 @@ Item,Quantity,Component,Specification,Price,Link
 8,1,PCB,BuildPad v1 PCB,4$ + 8$ shipping, JLCPCB
 9,1,Case,BuildPad v1 3D Printed Case,-,-
 10,8,Heat Set Inserts,M2 Brass Heat Set Inserts,~1.5$,https://robu.in/product/m2-x-4-mm-brass-insert/
-11,4,Screws,M2 Machine Screws 12mm long,~0.5$,
-12,4,Screws,M2 Machine Screws 4mm long,~0.5$,
-13,1,Encoder Knob,6mm Shaft Encoder Knob,~2$,
+11,4,Screws,M2 Machine Screws 12mm long,~0.5$,https://robu.in/product/easymech-m2-x-12mm-hex-allen-csk-high-tensile109-black-oxide-screw-dia-2mm-length-12mm/
+12,4,Screws,M2 Machine Screws 4mm long,~0.5$,-
+13,1,Encoder Knob,6mm Shaft Encoder Knob,~1$,-
