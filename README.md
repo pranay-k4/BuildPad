@@ -33,10 +33,11 @@ BuildPad is customizable open-source macropad for makers, coders, designers, and
 
 ### 1. Order the PCB
 Export the Gerber files from the PCB folder and order the board from your preferred PCB manufacturer.
-[CAD Source](https://cad.onshape.com/documents/56e50c354be83b1f527c4f36/w/ea902eb5d511072ea0b73db3/e/02ae305e326d8373da2c26ce?renderMode=0&uiState=6a47eb012f119bc675f6dd9a)
 
 ### 2. Print the Case
 Print the top and bottom case parts using the files in the case directory.
+
+[CAD Source](https://cad.onshape.com/documents/56e50c354be83b1f527c4f36/w/ea902eb5d511072ea0b73db3/e/02ae305e326d8373da2c26ce?renderMode=0&uiState=6a47eb012f119bc675f6dd9a)
 
 ### 3. Gather Components
 Use the BOM to source all required components.
