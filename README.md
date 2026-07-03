@@ -72,11 +72,11 @@ Flash the generated firmware onto the XIAO RP2040.
 
 Mount the PCB inside the case and secure everything using M2 screws.
 
----
 
 ## License
+
 This project is licensed under the MIT License.
----
+
 
 ## Author
 Created by Pranay Kamle.
