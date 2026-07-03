@@ -69,12 +69,15 @@ qmk compile -kb buildpad -km default
 Flash the generated firmware onto the XIAO RP2040.
 
 ### 7. Assemble the Case
+
 Mount the PCB inside the case and secure everything using M2 screws.
+
 ---
 
 ## License
 This project is licensed under the MIT License.
 ---
+
 ## Author
 Created by Pranay Kamle.
 If you build one, modify it, or improve it, feel free to share your version.
