@@ -14,9 +14,8 @@ BuildPad is customizable macro pad with OLED display, layers, media controls and
 ![image](https://cdn.hackclub.com/019ef59a-bcc8-749e-8118-97423e1eb3ba/image.png)
 
 
-## Why BuildPad? ( Why I built this )
+## Why BuildPad?
 BuildPad is customizable open-source macropad for makers, coders, designers, and electronics builders and why I made this because building something yourself is way more fun than buying it and I love hardware.
-
 
 ## Features
 - 6 programmable mechanical keys
@@ -25,7 +24,7 @@ BuildPad is customizable open-source macropad for makers, coders, designers, and
 - RGB lighting
 - Custom firmware
 - Open-source hardware
--  Bongo Cat animation
+- Bongo Cat animation
 
 ## Hardware
 
@@ -69,12 +68,10 @@ qmk compile -kb buildpad -km default
 Flash the generated firmware onto the XIAO RP2040.
 
 ### 7. Assemble the Case
-
 Mount the PCB inside the case and secure everything using M2 screws.
 
 
 ## License
-
 This project is licensed under the MIT License.
 
 
