@@ -7,8 +7,8 @@ BuildPad is customizable macro pad with OLED display, layers, media controls and
 
 <img width="606" height="420" alt="Opera Snapshot_2026-07-02_222105_cad onshape com" src="https://github.com/user-attachments/assets/f5d77506-7f1f-44f0-8f96-652ffa5cb741" />
 
-## PCB
 
+## PCB Screenshots
 ![image](https://cdn.hackclub.com/019ef59a-6f5c-710c-83ca-89a48ec1d11d/image.png)
 
 ![image](https://cdn.hackclub.com/019ef59a-bcc8-749e-8118-97423e1eb3ba/image.png)
