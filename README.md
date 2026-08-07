@@ -66,7 +66,23 @@ Mount the PCB inside the case and secure everything using M2 screws.
 
 
 ## BOM
-[BOM.csv](BOM.csv)
+# Bill of Materials
+
+| Item | Qty | Component | Specification | Price | Link |
+|------|-----|------------|---------------|--------|------|
+| 1 | 1 | Microcontroller | Seeed Studio XIAO RP2040 | ~$6-7 | https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/ |
+| 2 | 1 | OLED Display | 0.91in SSD1306 I2C OLED (128x32) | ~$2.5 | https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/ |
+| 3 | 1 | Rotary Encoder | EC11 Encoder with Push Switch | ~$0.6 | https://robu.in/product/hongyan-ec11h-7ce20p1zy20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/ |
+| 4 | 1 | Mechanical Switches | Cherry MX Compatible Switches (Pack of 10) | ~$4 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/ |
+| 5 | 2 | Keycaps | MX Compatible Keycaps (Pack of 5) | ~$2 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/ |
+| 6 | 8 | RGB LEDs | SK6812MINI-E Reverse Mount RGB LEDs | ~$3 | https://www.lcsc.com/product-detail/C5149201.html |
+| 7 | 6 | Diodes | 1N4148W SOD-123 | ~$0.5 | https://www.lcsc.com/product-detail/C81598.html |
+| 8 | 1 | PCB | BuildPad v1 PCB | $4 + $8 shipping | JLCPCB |
+| 9 | 1 | Case | BuildPad v1 3D Printed Case | - | - |
+| 10 | 8 | Heat Set Inserts | M2 Brass Heat Set Inserts | ~$1.5 | https://robu.in/product/m2-x-4-mm-brass-insert/ |
+| 11 | 4 | Screws | M2 Machine Screws 12mm Long | ~$0.5 | https://robu.in/product/easymech-m2-x-12mm-hex-allen-csk-high-tensile109-black-oxide-screw-dia-2mm-length-12mm/ |
+| 12 | 4 | Screws | M2 Machine Screws 4mm Long | ~$0.5 | TBD |
+| 13 | 1 | Encoder Knob | 6mm Shaft Encoder Knob | ~$1 | TBD |
 
 ## License
 This project is licensed under the MIT License.
